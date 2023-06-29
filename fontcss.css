@@ -1,0 +1,7 @@
+@font-face {
+	font-family: "chi";
+	src: 	 url("chi.woff") format("woff"),
+			 url("chi.TTF") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
